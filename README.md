@@ -13,7 +13,7 @@
 
 ### About me   
 # 
-🔭 Hello! I'm Eileen Lidueñez, a Software Analysis and Development student, passionate about programming and building technological  solutions.
+🔭 Hello! I'm Eileen Lidueñez, a Software Analysis and Development student, passionate about programming and building technological    solutions.
 
 🌱 I strive to continuously improve my skills and stand out in every project I undertake.
 
